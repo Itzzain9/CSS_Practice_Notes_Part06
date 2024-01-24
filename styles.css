@@ -47,3 +47,13 @@ div{
    background-size: contain;
 }
 
+
+div{
+   border: 1px solid black;
+   height: 120px;
+   width: 150px;
+   background-image: url(/images/f95f5676571b30e0b79d23e5d75b78d7.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
