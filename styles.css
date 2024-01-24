@@ -177,4 +177,19 @@ button:focus{
    background-color: blueviolet;
 }
 
+/* Media Qureis */
+/* For Maximum */
 
+@media (max-width: 600px){
+   h2{
+      color: aqua;
+   }
+}
+
+/* For Minimum Width */
+
+@media (min-width: 600px){
+   h2{
+      color: yellowgreen;
+   }
+}
