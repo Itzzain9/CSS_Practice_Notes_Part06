@@ -69,3 +69,11 @@ div{
    background-clip: border-box;
 }
 
+.clip2{
+   background-clip: padding-box;
+}
+
+.clip3{
+   background-clip: content-box;
+}
+
