@@ -57,3 +57,15 @@ div{
    background-size: cover;
 }
 
+.box{
+   width: 250px;
+   height: 150px;
+   padding: 10px;
+   border: 6px dashed #333;
+   background: orange;
+}
+
+.clip1{
+   background-clip: border-box;
+}
+
