@@ -3,7 +3,7 @@ In this Repo You can Learn CSS From Scratch To Advance, In This Repo you can Fin
 1-Introduction to CSS 3<br>
 2-Box shadow<br>
 3-Rounded Borders<br>
-4-Multiple background<br>  
+4-Multiple background
 5-Animation <br>
 6-Psuedo class <br>
 7-Flex box<br>
