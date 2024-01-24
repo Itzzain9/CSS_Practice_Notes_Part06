@@ -141,3 +141,14 @@ div {
    animation-duration: 4s;
 }
 
+/* Pseudo Classes */
+/* It is Hover */
+button:hover{
+   color: aqua;
+   background-color: bisque;
+}
+
+/* It is active */
+button:active{
+   border: 10px solid red;
+}
