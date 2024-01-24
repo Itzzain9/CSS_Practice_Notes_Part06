@@ -77,3 +77,17 @@ div{
    background-clip: content-box;
 }
 
+
+/*  CSS-Gradients */
+
+#grad1{
+   height: 100px;
+   background-color: red;
+   background-image: linear-gradient(red,yellow);
+}
+
+#grad1{
+   height: 150px;
+   width: 200px;
+   background-image: radial-gradient(red,yellow,green);
+}
