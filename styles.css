@@ -126,3 +126,18 @@ p{
    text-shadow: 1px 1px 2px black, 0 0 25px blue,0 0 5px darkblue;
 }
 
+/* Css Animation */
+
+@keyframes example{
+   from{background-color: red:}
+   to{background-color: yellow;}
+}
+
+div {
+   width: 100px;
+   height: 100px;
+   background-color: red;
+   animation-name: example;
+   animation-duration: 4s;
+}
+
