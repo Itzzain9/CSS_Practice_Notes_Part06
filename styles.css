@@ -160,3 +160,9 @@ button:focus{
    color: white;
 }
 
+/* Flex Box */
+.parent{
+   background-color: red;
+   display: flex;
+}
+
